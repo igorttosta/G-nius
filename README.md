@@ -1,2 +1,2 @@
-# G-nius
+# Genesis
 Um jogo básico
